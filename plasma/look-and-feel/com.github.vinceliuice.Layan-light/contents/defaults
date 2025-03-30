@@ -1,11 +1,11 @@
 [kcminputrc][Mouse]
-cursorTheme=Layan-white-cursors
+cursorTheme=BreezeLight # Layan-white-cursors
 
 [kdeglobals][General]
 ColorScheme=LayanLight
 
 [kdeglobals][Icons]
-Theme=Tela-circle
+Theme=Tela-light
 
 [kdeglobals][KDE]
 widgetStyle=kvantum
