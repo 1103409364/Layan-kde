@@ -1,5 +1,5 @@
 [kcminputrc][Mouse]
-cursorTheme=Breeze # Layan-white-cursors
+cursorTheme=breeze_cursors 
 
 [kdeglobals][General]
 ColorScheme=Layan
