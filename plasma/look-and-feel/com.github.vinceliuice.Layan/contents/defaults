@@ -5,7 +5,7 @@ cursorTheme=breeze_cursors
 ColorScheme=Layan
 
 [kdeglobals][Icons]
-Theme=Tela
+Theme=Papirus-Dark
 
 [kdeglobals][KDE]
 widgetStyle=kvantum-dark
